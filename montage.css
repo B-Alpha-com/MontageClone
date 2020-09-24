@@ -1,3 +1,91 @@
 body{
-	
+	background-color:#D6D2D2;
+	/*background:url(mydev.jpg);*/
+	/*background-position:right center;*/
+
+}
+.master{
+	margin-left:60px;
+}
+.first{
+	display:block;
+}
+.head{
+	font-family:'Satisfy', cursive;
+	font-size:40px;
+	color:#595758;
+	margin-top:0%;
+}
+.btn_0{
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+	background-color:transparent;
+	border-color:#595758; 
+	border-radius: 5px;
+	font-family:'Baloo Tammudu 2', cursive;
+	cursor: pointer;
+	padding-left:15px;
+	padding-right: 15px;
+	margin-left: 90%;
+	margin-top:0%;
+}
+img{
+	height:500px;
+	width: 800px;
+	box-shadow:50px;
+	margin-left: 100px;
+}
+.Text_1{
+	margin-top:100px;
+	width:150px;
+
+}
+.Pav{
+	font-size:20px;
+	font-family: inherit;
+	font-weight: normal;
+	color:#595758;
+}
+.Pav_2{
+	margin-top: 20px;
+	font-size: 14px;
+}
+.button{
+	margin-top: 100px;
+}
+.btn_1{
+	margin-right:40px;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	background-color:#26A96C;
+	border-color:#56E39F; 
+	border-radius: 5px;
+	font-family:'Baloo Tammudu 2', cursive;
+	cursor:pointer;
+}
+
+.btn_2{
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+	background-color:transparent;
+	border-color:#595758; 
+	border-radius: 5px;
+	font-family:'Baloo Tammudu 2', cursive;
+	cursor: pointer;
+}
+li{
+	margin-top: 300px;
+	margin-right: 100px;
+	display: inline-block;
+	text-transform: uppercase;
+	border-right: 1px solid;
+	padding:10px;
+	border-color:#595758;
+	font-size: 10px;
+	font-family: 'Baloo Tammudu 2', cursive; 
+	text-align: center;
+
 }
