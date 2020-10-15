@@ -7,9 +7,6 @@ body{
 .master{
 	margin-left:60px;
 }
-.first{
-	display:block;
-}
 .head{
 	font-family:'Satisfy', cursive;
 	font-size:40px;
@@ -27,7 +24,7 @@ body{
 	cursor: pointer;
 	padding-left:15px;
 	padding-right: 15px;
-	margin-left: 90%;
+	margin-left: 100%;
 	margin-top:0%;
 }
 img{
@@ -77,6 +74,62 @@ img{
 	cursor: pointer;
 }
 li{
+	display: inline-block;
+
+}
+#aa{
+	margin-top: 300px;
+	margin-right: 100px;
+	display: inline-block;
+	text-transform: uppercase;
+	border-right: 1px solid;
+	padding:10px;
+	border-color:#595758;
+	font-size: 10px;
+	font-family: 'Baloo Tammudu 2', cursive; 
+	text-align: center;
+
+}
+#bb{
+	margin-top: 300px;
+	margin-right: 100px;
+	display: inline-block;
+	text-transform: uppercase;
+	border-right: 1px solid;
+	padding:10px;
+	border-color:#595758;
+	font-size: 10px;
+	font-family: 'Baloo Tammudu 2', cursive; 
+	text-align: center;
+
+}
+#cc{
+	margin-top: 300px;
+	margin-right: 100px;
+	display: inline-block;
+	text-transform: uppercase;
+	border-right: 1px solid;
+	padding:10px;
+	border-color:#595758;
+	font-size: 10px;
+	font-family: 'Baloo Tammudu 2', cursive; 
+	text-align: center;
+
+}
+#dd{
+	margin-top: 300px;
+	margin-right: 100px;
+	display: inline-block;
+	text-transform: uppercase;
+	border-right: 1px solid;
+	padding:10px;
+	border-color:#595758;
+	font-size: 10px;
+	font-family: 'Baloo Tammudu 2', cursive; 
+	text-align: center;
+
+}
+#ee{
 	margin-top: 300px;
 	margin-right: 100px;
 	display: inline-block;
